@@ -2,6 +2,7 @@
 Automated payout script for TurtleNetwork node operators 
 
 Based on <https://github.com/jansenmarc/WavesLPoSDistributer> but rewritten in Python.
+
 Based on <https://github.com/iammortimer/TN_LPoS_Payout/> by iammortimer.
 
 ## Installation
